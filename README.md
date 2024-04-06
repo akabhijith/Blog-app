@@ -1,2 +1,2 @@
-# Blog-app
-# Blog-app
+Blog-app
+Made with Django framework. 
